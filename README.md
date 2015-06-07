@@ -1,7 +1,7 @@
 MEAN Template
 -------
 
-- Instructions
+### Instructions
 - Clone the repository
 - Install the npm modules: npm install
 - Install the bower components: bower install
