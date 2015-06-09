@@ -1,7 +1,7 @@
 MEAN Template
 -------
 
-Simple set up for future projects.
+Simple set up for future single page MEAN stack projects.
 
 ###Set Up
 ```
