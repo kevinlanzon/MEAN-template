@@ -44,5 +44,5 @@ $ cd MEAN-template
 $ npm install
 $ bower install
 $ node server.js
-visit http://localhost:3000
+visit http://localhost:8080
 ```
