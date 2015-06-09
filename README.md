@@ -13,7 +13,7 @@ Simple set up for future single page MEAN stack projects.
   - db.js
 - node_modules <!-- created by npm install -->
 - public <!-- all frontend and angular stuff -->
-- css
+  - css
   - js
     - controllers <!-- angular controllers -->
       - MainCtrl.js
@@ -22,7 +22,7 @@ Simple set up for future single page MEAN stack projects.
       - NerdService.js
     - app.js <!-- angular application -->
     - appRoutes.js <!-- angular routes -->
-- img
+  - img
   - libs <!-- created by bower install -->
   - views
     - home.html
